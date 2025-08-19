@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Yakup Bingöl  
 
-💻 Yazılım geliştirme, gömülü sistemler ve donanım tasarımı ile ilgileniyorum.  
+💻 Yazılım geliştirme, gömülü sistemler,web geliştirme ve donanım tasarımı ile ilgileniyorum.  
 Kullandığım diller, araçlar ve teknolojiler:  
 
 ---
