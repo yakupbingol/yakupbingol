@@ -3,7 +3,19 @@
 💻 Yazılım geliştirme, gömülü sistemler,web geliştirme ve donanım tasarımı ile ilgileniyorum.  
 Kullandığım diller, araçlar ve teknolojiler:  
 
+
+
+![Visitors](https://komarev.com/ghpvc/?username=yakupbingol&label=Ziyaretçi%20Sayısı&color=blue&style=flat)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yakupbingol&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupbingol&layout=compact&theme=radical)
+
+
 ---
+## 🔭 Üzerinde Çalıştığım Konular
+- ⚡ **C / C++ & Embedded Systems**
+- 🌐 **C# .NET ve Entity Framework**
+- 📱 **Arduino & STM32 projeleri**
 
 ## 🚀 Diller ve Frameworkler
 ![C](https://skillicons.dev/icons?i=c)  
@@ -37,5 +49,6 @@ Kullandığım diller, araçlar ve teknolojiler:
 ---
 
 ## 📊 GitHub İstatistiklerim
+![Visitors](https://komarev.com/ghpvc/?username=yakupbingol&label=Ziyaretçi%20Sayısı&color=blue&style=flat)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yakupbingol&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupbingol&layout=compact&theme=tokyonight)
